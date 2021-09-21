@@ -1,3 +1,3 @@
-# Noom
+# WebSocket
 
-Zoom Clone using Nodejs, WebRTC and WebSocekts
+Zoom Clone using Nodejs and WebSocekts
